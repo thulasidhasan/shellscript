@@ -14,6 +14,12 @@ echo "${Fruits[1]}"
 
 #####################################################################
 
+#loops   ===> if u wany to execute a commands (or) list of commands repetedly called loop
+
+
+
+
+
 
 
 
